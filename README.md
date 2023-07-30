@@ -1,5 +1,3 @@
-Here is the README.md with the updated UUID and author info added to the top:
-
 # Claude Flask API
 
 **Author**: Ali Benali
